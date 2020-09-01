@@ -1,0 +1,13 @@
+C:\Users\shipleyn\nicks_burner\bin\Debug\netcoreapp3.1\nicks_burner.exe
+C:\Users\shipleyn\nicks_burner\bin\Debug\netcoreapp3.1\nicks_burner.deps.json
+C:\Users\shipleyn\nicks_burner\bin\Debug\netcoreapp3.1\nicks_burner.runtimeconfig.json
+C:\Users\shipleyn\nicks_burner\bin\Debug\netcoreapp3.1\nicks_burner.runtimeconfig.dev.json
+C:\Users\shipleyn\nicks_burner\bin\Debug\netcoreapp3.1\nicks_burner.dll
+C:\Users\shipleyn\nicks_burner\bin\Debug\netcoreapp3.1\nicks_burner.pdb
+C:\Users\shipleyn\nicks_burner\obj\Debug\netcoreapp3.1\nicks_burner.csprojAssemblyReference.cache
+C:\Users\shipleyn\nicks_burner\obj\Debug\netcoreapp3.1\nicks_burner.AssemblyInfoInputs.cache
+C:\Users\shipleyn\nicks_burner\obj\Debug\netcoreapp3.1\nicks_burner.AssemblyInfo.cs
+C:\Users\shipleyn\nicks_burner\obj\Debug\netcoreapp3.1\nicks_burner.csproj.CoreCompileInputs.cache
+C:\Users\shipleyn\nicks_burner\obj\Debug\netcoreapp3.1\nicks_burner.dll
+C:\Users\shipleyn\nicks_burner\obj\Debug\netcoreapp3.1\nicks_burner.pdb
+C:\Users\shipleyn\nicks_burner\obj\Debug\netcoreapp3.1\nicks_burner.genruntimeconfig.cache
